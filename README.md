@@ -12,6 +12,6 @@
 
 <p>Download Greenfoot here: https://www.greenfoot.org/download</p>
 ===========================================================================================================================================================
-<h5>Disclaimer</h5>
+<h4>Disclaimer</h4>
 
 <p>I do not own any of the pictures. Everything was already a part of Greenfoot with the exception of the "win" and "lost" images.</p>
