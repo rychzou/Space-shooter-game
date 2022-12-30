@@ -8,7 +8,7 @@ This is my recreated version of a vertical space shooter game in "Greenfoot," a 
 
 A player will be controlling a spaceship that can fire projectiles at obstacles that come your way. Aliens will randomly come from the top of the screen, along with Asteroids and Health Packs. Aliens that reach the bottom of the screen will cost you health. Health Packs collected by the player will gain health points. 
 
-Arrow keys are used for movement and the space bar is fire.
+<p> Arrow keys are used for movement and the space bar is fire.
 ===========================================================================================================================================================
 HOW TO RUN
 
